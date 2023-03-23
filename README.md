@@ -4,6 +4,6 @@
 
 ## 14/20 Projects
 
-Pure JS
+Vanilla JS
 
 <a href="https://advice-generator-app-v2.netlify.app/" target="_blank">Click Here to view Advice Generator App</a>
